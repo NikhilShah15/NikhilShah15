@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics and Business Intelligence projects<br>👯 I’m looking to collaborate on Data Analytics and BI projects<br>🤝 I’m looking for opportunities to learn and work on real-world data problems<br>🌱 I’m currently learning Advanced SQL, Power BI and Data Visualization<br>💬 Ask me about Python, SQL, Tableau, Power BI and Data Analysis<br>⚡ Fun fact: I enjoy turning messy data into meaningful business insights
+🤝 I’m looking for opportunities to learn and work on real-world data problems<br>🌱 I’m currently learning Advanced SQL, Power BI and Data Visualization<br>💬 Ask me about Python, SQL, Tableau, Power BI and Data Analysis<br>⚡ Fun fact: I enjoy turning messy data into meaningful business insights
 
 
 ## 🌐 Socials:
